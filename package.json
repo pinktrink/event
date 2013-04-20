@@ -1,0 +1,10 @@
+{
+	"name" : "event",
+	"description" : "description",
+	"version" : "0.0.0.0.0.0",
+	"private" : false,
+	"dependencies" : {
+		"express" : "latest",
+		"mongoose" : "latest"
+	}
+}
